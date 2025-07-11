@@ -1,0 +1,57 @@
+{
+  "@@locale": "en",
+  "cashierAppTitle": "Cashier App",
+  "@cashierAppTitle": {
+    "description": "The title of the application"
+  },
+  "homePageSearchProductsHint": "Search products...",
+  "homePageCategoryAll": "All",
+  "homePageCurrentOrder": "Current Order",
+  "homePageTapProductsToAdd": "Tap products to add them to the order",
+  "homePageClearButton": "Clear",
+  "homePageOrderButton": "Order",
+  "homePageTotal": "Total",
+  "productName": "Product Name",
+  "category": "Category",
+  "sellingPrice": "Selling Price",
+  "stockQuantity": "Stock Quantity",
+  "buyingPriceOptional": "Buying Price (Optional)",
+  "buyingPriceRequired": "Buying Price (Required)",
+  "save": "Save",
+  "cancel": "Cancel",
+  "settings": "Settings",
+  "companyInformation": "Company Information",
+  "manageCategories": "Manage Categories",
+  "transactionSettings": "Transaction & Operational Settings",
+  "printerSetup": "Printer Setup",
+  "viewPastReceipts": "View Past Receipts",
+  "manageProducts": "Manage Products",
+  "viewReports": "View Reports",
+  "receipt": "Receipt",
+  "receiptId": "Receipt ID",
+  "date": "Date",
+  "itemsPurchased": "Items Purchased:",
+  "totalAmount": "Total Amount:",
+  "paymentMethod": "Payment Method:",
+  "amountPaid": "Amount Paid:",
+  "changeGiven": "Change Given:",
+  "startNewOrder": "Start New Order",
+  "paymentCash": "Cash",
+  "paymentCard": "Card",
+  "paymentEmoney": "E-money / Wallet",
+  "addItemSuccess": "{itemName} added",
+  "@addItemSuccess": {
+    "description": "Snackbar message when an item is added to order",
+    "placeholders": {
+      "itemName": {
+        "type": "String",
+        "example": "Cola"
+      }
+    }
+  },
+  "orderCleared": "Order cleared",
+  "cannotProceedEmptyOrder": "Cannot proceed with an empty order.",
+  "confirmPayment": "Confirm Payment",
+  "processing": "Processing..."
+  // ... Add ALL user-facing strings from your app here
+}
